@@ -1,0 +1,8 @@
+http://github.com/	1	{(http://youtube.com/),(http://gmail.com/),(http://github.com/),(http://sharelatex.com/)}
+http://gmail.com/	1	{(http://facebook.com/),(http://github.com/),(http://youtube.com/),(http://sharelatex.com/),(http://twitter.com/)}
+http://facebook.com/	1	{(http://youtube.com/),(http://twitter.com/),(http://linkedin.com/)}
+http://youtube.com/	1	{(http://twitter.com/),(http://facebook.com/),(http://linkedin.com/),(http://github.com/)}
+http://sharelatex.com/	1	{(http://youtube.com/)}
+http://twitter.com/	1	{(http://viadeo.com/)}
+http://linkedin.com/	1	{(http://twitter.com/)}
+http://viadeo.com/	1	{(http://twitter.com/),(http://linkedin.com/),(http://facebook.com/),(http://gmail.com/)}

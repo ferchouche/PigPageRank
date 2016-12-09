@@ -1,0 +1,8 @@
+http://twitter.com/	1.878333344310522	{(http://viadeo.com/)}
+http://youtube.com/	1.665833344310522	{(http://twitter.com/),(http://facebook.com/),(http://linkedin.com/),(http://github.com/)}
+http://viadeo.com/	1.0	{(http://twitter.com/),(http://linkedin.com/),(http://facebook.com/),(http://gmail.com/)}
+http://linkedin.com/	0.8583333417773247	{(http://twitter.com/)}
+http://github.com/	0.7450000025331974	{(http://youtube.com/),(http://gmail.com/),(http://github.com/),(http://sharelatex.com/)}
+http://facebook.com/	0.7450000025331974	{(http://youtube.com/),(http://twitter.com/),(http://linkedin.com/)}
+http://gmail.com/	0.575	{(http://facebook.com/),(http://github.com/),(http://youtube.com/),(http://sharelatex.com/),(http://twitter.com/)}
+http://sharelatex.com/	0.5325000025331974	{(http://youtube.com/)}
